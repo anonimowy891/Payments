@@ -1,28 +1,28 @@
 {
     "lastPayout": {
-        "date": 1650480779,
-        "rewards": 641400000000,
-        "producedBlocks": 6415
+        "date": 1650481918,
+        "rewards": 641500000000,
+        "producedBlocks": 6416
     },
     "pending": {
-        "lsksoapd5mw4d55ebez8d4dvhqmj5nagw5zze4998": 26513,
+        "lsksoapd5mw4d55ebez8d4dvhqmj5nagw5zze4998": 29164,
         "lskf859xyn687gd7rvecbbrq2u7srcvtztwa9yc56": 0,
-        "lsk536vtvc9qomcdd7n4kgncbp6fgavkpbct5xs7j": 334111,
-        "lskanon8m7cocxtnaenb2bnzpcmcet8jrenyyxft7": 479953,
-        "lskztxrxns7vrc6ufkmvermu5vhv49cocufk8ehxr": 503818,
-        "lsk7vg2d55xtxzkpp58gs3nqfnva7uu68yg9hfz5s": 612537,
-        "lsk8aa5t5kfkm8bgug6btdut2ekry4paoeognz4cg": 265167,
-        "lskd2pzojbngse68vngezmp5wgvrf23yjqjtdot7j": 662913,
-        "lskwwqc6pneqwxxd329kycxp8s7mbvx7u2rk9kv72": 26513,
-        "lskeznp4yudpkavth98ebmzw6jz6pym5hzpqgj8tp": 26513
+        "lsk536vtvc9qomcdd7n4kgncbp6fgavkpbct5xs7j": 668222,
+        "lskanon8m7cocxtnaenb2bnzpcmcet8jrenyyxft7": 959906,
+        "lskztxrxns7vrc6ufkmvermu5vhv49cocufk8ehxr": 0,
+        "lsk7vg2d55xtxzkpp58gs3nqfnva7uu68yg9hfz5s": 0,
+        "lsk8aa5t5kfkm8bgug6btdut2ekry4paoeognz4cg": 530334,
+        "lskd2pzojbngse68vngezmp5wgvrf23yjqjtdot7j": 729204,
+        "lskwwqc6pneqwxxd329kycxp8s7mbvx7u2rk9kv72": 29164,
+        "lskeznp4yudpkavth98ebmzw6jz6pym5hzpqgj8tp": 29164
     },
     "paid": {
         "lsksoapd5mw4d55ebez8d4dvhqmj5nagw5zze4998": 0,
-        "lskf859xyn687gd7rvecbbrq2u7srcvtztwa9yc56": 286380991,
+        "lskf859xyn687gd7rvecbbrq2u7srcvtztwa9yc56": 334111156,
         "lsk536vtvc9qomcdd7n4kgncbp6fgavkpbct5xs7j": 1670555,
         "lskanon8m7cocxtnaenb2bnzpcmcet8jrenyyxft7": 2399765,
-        "lskztxrxns7vrc6ufkmvermu5vhv49cocufk8ehxr": 2519091,
-        "lsk7vg2d55xtxzkpp58gs3nqfnva7uu68yg9hfz5s": 3062685,
+        "lskztxrxns7vrc6ufkmvermu5vhv49cocufk8ehxr": 3526727,
+        "lsk7vg2d55xtxzkpp58gs3nqfnva7uu68yg9hfz5s": 4287759,
         "lsk8aa5t5kfkm8bgug6btdut2ekry4paoeognz4cg": 1325836,
         "lskd2pzojbngse68vngezmp5wgvrf23yjqjtdot7j": 0,
         "lskwwqc6pneqwxxd329kycxp8s7mbvx7u2rk9kv72": 0,
@@ -53,6 +53,11 @@
             "date": 1650480784,
             "userPaid": 1,
             "rewards": 47730165
+        },
+        {
+            "date": 1650481924,
+            "userPaid": 3,
+            "rewards": 49962875
         }
     ]
 }
