@@ -6,7 +6,7 @@
     },
     "pending": {
         "lsksoapd5mw4d55ebez8d4dvhqmj5nagw5zze4998": 13256,
-        "lskf859xyn687gd7rvecbbrq2u7srcvtztwa9yc56": 47730165,
+        "lskf859xyn687gd7rvecbbrq2u7srcvtztwa9yc56": 0,
         "lsk536vtvc9qomcdd7n4kgncbp6fgavkpbct5xs7j": 334111,
         "lskanon8m7cocxtnaenb2bnzpcmcet8jrenyyxft7": 479953,
         "lskztxrxns7vrc6ufkmvermu5vhv49cocufk8ehxr": 503818,
@@ -18,7 +18,7 @@
     },
     "paid": {
         "lsksoapd5mw4d55ebez8d4dvhqmj5nagw5zze4998": 0,
-        "lskf859xyn687gd7rvecbbrq2u7srcvtztwa9yc56": 0,
+        "lskf859xyn687gd7rvecbbrq2u7srcvtztwa9yc56": 47730165,
         "lsk536vtvc9qomcdd7n4kgncbp6fgavkpbct5xs7j": 0,
         "lskanon8m7cocxtnaenb2bnzpcmcet8jrenyyxft7": 0,
         "lskztxrxns7vrc6ufkmvermu5vhv49cocufk8ehxr": 0,
@@ -38,6 +38,11 @@
             "date": 1650474899,
             "userPaid": 6,
             "rewards": 199703005
+        },
+        {
+            "date": 1650478685,
+            "userPaid": 1,
+            "rewards": 47730165
         }
     ]
 }
