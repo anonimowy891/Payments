@@ -29,35 +29,5 @@
         "lskeznp4yudpkavth98ebmzw6jz6pym5hzpqgj8tp": 0
     },
     "history": [
-        {
-            "date": 1650470790,
-            "userPaid": 10,
-            "rewards": 320199999997
-        },
-        {
-            "date": 1650474899,
-            "userPaid": 6,
-            "rewards": 199703005
-        },
-        {
-            "date": 1650478685,
-            "userPaid": 1,
-            "rewards": 47730165
-        },
-        {
-            "date": 1650480441,
-            "userPaid": 6,
-            "rewards": 201898593
-        },
-        {
-            "date": 1650480784,
-            "userPaid": 1,
-            "rewards": 47730165
-        },
-        {
-            "date": 1650481924,
-            "userPaid": 3,
-            "rewards": 49962875
-        }
     ]
 }
