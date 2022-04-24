@@ -1,29 +1,29 @@
 {
     "lastPayout": {
-        "date": 1650808807,
-        "rewards": 673200000000,
-        "producedBlocks": 6733
+        "date": 1650811502,
+        "rewards": 673500000000,
+        "producedBlocks": 6736
     },
     "pending": {
-        "lsksoapd5mw4d55ebez8d4dvhqmj5nagw5zze4998": 869578,
-        "lskf859xyn687gd7rvecbbrq2u7srcvtztwa9yc56": 15130462306,
-        "lsk536vtvc9qomcdd7n4kgncbp6fgavkpbct5xs7j": 106581409,
-        "lskanon8m7cocxtnaenb2bnzpcmcet8jrenyyxft7": 153105007,
-        "lskztxrxns7vrc6ufkmvermu5vhv49cocufk8ehxr": 159710307,
-        "lsk7vg2d55xtxzkpp58gs3nqfnva7uu68yg9hfz5s": 194174229,
-        "lsk8aa5t5kfkm8bgug6btdut2ekry4paoeognz4cg": 84588319,
-        "lskd2pzojbngse68vngezmp5wgvrf23yjqjtdot7j": 21743498,
-        "lskwwqc6pneqwxxd329kycxp8s7mbvx7u2rk9kv72": 869578,
-        "lskeznp4yudpkavth98ebmzw6jz6pym5hzpqgj8tp": 869578
+        "lsksoapd5mw4d55ebez8d4dvhqmj5nagw5zze4998": 877531,
+        "lskf859xyn687gd7rvecbbrq2u7srcvtztwa9yc56": 15273652801,
+        "lsk536vtvc9qomcdd7n4kgncbp6fgavkpbct5xs7j": 107583742,
+        "lskanon8m7cocxtnaenb2bnzpcmcet8jrenyyxft7": 154544866,
+        "lskztxrxns7vrc6ufkmvermu5vhv49cocufk8ehxr": 161221761,
+        "lsk7vg2d55xtxzkpp58gs3nqfnva7uu68yg9hfz5s": 196011840,
+        "lsk8aa5t5kfkm8bgug6btdut2ekry4paoeognz4cg": 85383820,
+        "lskd2pzojbngse68vngezmp5wgvrf23yjqjtdot7j": 21942371,
+        "lskwwqc6pneqwxxd329kycxp8s7mbvx7u2rk9kv72": 877531,
+        "lskeznp4yudpkavth98ebmzw6jz6pym5hzpqgj8tp": 877531
     },
     "paid": {
         "lsksoapd5mw4d55ebez8d4dvhqmj5nagw5zze4998": 0,
-        "lskf859xyn687gd7rvecbbrq2u7srcvtztwa9yc56": 334111156,
-        "lsk536vtvc9qomcdd7n4kgncbp6fgavkpbct5xs7j": 1670555,
-        "lskanon8m7cocxtnaenb2bnzpcmcet8jrenyyxft7": 2399765,
-        "lskztxrxns7vrc6ufkmvermu5vhv49cocufk8ehxr": 3526727,
-        "lsk7vg2d55xtxzkpp58gs3nqfnva7uu68yg9hfz5s": 4287759,
-        "lsk8aa5t5kfkm8bgug6btdut2ekry4paoeognz4cg": 1325836,
+        "lskf859xyn687gd7rvecbbrq2u7srcvtztwa9yc56": 0,
+        "lsk536vtvc9qomcdd7n4kgncbp6fgavkpbct5xs7j": 0,
+        "lskanon8m7cocxtnaenb2bnzpcmcet8jrenyyxft7": 0,
+        "lskztxrxns7vrc6ufkmvermu5vhv49cocufk8ehxr": 0,
+        "lsk7vg2d55xtxzkpp58gs3nqfnva7uu68yg9hfz5s": 0,
+        "lsk8aa5t5kfkm8bgug6btdut2ekry4paoeognz4cg": 0,
         "lskd2pzojbngse68vngezmp5wgvrf23yjqjtdot7j": 0,
         "lskwwqc6pneqwxxd329kycxp8s7mbvx7u2rk9kv72": 0,
         "lskeznp4yudpkavth98ebmzw6jz6pym5hzpqgj8tp": 0
